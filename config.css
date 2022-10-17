@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    background-color: rgb(216, 215, 215);
+    align-items: center;
+    justify-content: space-around;
+    height: 15vh;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 13pt;
+
+}
+
+ul {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    white-space: 50px;
+}
+
+.copyright {
+
+
+    display: block;
+    color: aliceblue;
+    margin-top: 2vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+footer {
+
+    background-color: black;
+
+}
